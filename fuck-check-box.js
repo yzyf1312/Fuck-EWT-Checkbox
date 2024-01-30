@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         制裁E网通
 // @namespace    https://github.com/yzyf1312/Fuck-EWT-Checkbox
-// @version      0.0.1
+// @version      0.0.2
 // @description  不就是防刷课吗？你以为你很厉害啊？
 // @author       依凡
 // @match        *://*.ewt360.com/*
