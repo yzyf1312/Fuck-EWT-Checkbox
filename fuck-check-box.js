@@ -4,7 +4,7 @@
 // @version      0.0.1
 // @description  不就是防刷课吗？你以为你很厉害啊？
 // @author       依凡
-// @match        *://*.ewt360.*/*
+// @match        *://*.ewt360.com/*
 // @grant        none
 // @downloadURL https://github.com/yzyf1312/Fuck-EWT-Checkbox/blob/main/fuck-check-box.js?raw=true
 // @updateURL https://github.com/yzyf1312/Fuck-EWT-Checkbox/blob/main/fuck-check-box.js?raw=true
